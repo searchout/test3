@@ -1,5 +1,5 @@
 <?php
-
+require 'scraperwiki.php';
 require 'scraperwiki/simple_html_dom.php';
 
 define('URL_BASE','http://baseball.yahoo.co.jp');
